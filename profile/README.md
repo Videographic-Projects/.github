@@ -1,7 +1,7 @@
 # Digital Video Investigation Project List
 
 
-## Rebuffer Chart Maker
+## [Rebuffer Chart Maker](https://github.com/Videographic-Projects/rebuffer-chart-maker)
 
 A visualization tool for creating and analyzing rebuffer trade-off charts for adaptive bitrate streaming.
 
@@ -71,7 +71,7 @@ The visualizations help identify optimal configuration points where both rebuffe
 
 
 
-## Interactive Video Player Playground
+## [Interactive Video Player Playground](https://github.com/Videographic-Projects/video-player-playground)
 
 A next-generation video player with advanced adaptive streaming capabilities, performance metrics visualization, and interactive controls.
 
