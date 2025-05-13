@@ -8,8 +8,7 @@ A visualization tool for creating and analyzing rebuffer trade-off charts for ad
 [Project Poster](https://github.com/Videographic-Projects/rebuffer-chart-maker/blob/main/Adaptive%20Bitrate%20Streaming%20Simulation.pdf)
 <br>
 [Project Research Paper](https://github.com/Videographic-Projects/rebuffer-chart-maker)
-<br>
-![Adaptive Bitrate Streaming Simulation](https://github.com/user-attachments/assets/5d855bdf-7e04-4390-b651-fe1e6089d465)
+
 
 ### Overview
 
