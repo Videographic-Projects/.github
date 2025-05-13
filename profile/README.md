@@ -144,5 +144,3 @@ This project demonstrates:
 ### Sample Experience
 
 The interactive player provides insights into how adaptive streaming decisions affect user experience, allowing developers to test and visualize different approaches to video delivery optimization in a controlled environment.
-
-## Getting Started
